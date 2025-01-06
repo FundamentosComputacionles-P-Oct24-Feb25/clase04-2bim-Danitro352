@@ -20,3 +20,5 @@
 // 30
 // 110
 //
+Una función es la cual contiene un RETORNO a una variable
+Un procedimiento es el cual contiene un ESCRIBIR y se devuelve a la misma función

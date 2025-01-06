@@ -10,7 +10,7 @@
 8. // se define un método o función
 9.  funcion obtenerMensaje(a, x(20)) : x // luego de los dos puntos se
                                          // indica el tipo de
-                                         // dato que devuelve la función
+                                         // dato que devuelve la función+
 10.    v, x(20)[{a-z}, {BS}]
 11.    v <-- "Hola Mundo" + a
 12.   retorna v // "Hola Mundo Eduardo"
